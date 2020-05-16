@@ -21,7 +21,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -64,14 +66,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added Solutions Files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2584" y="113" key="CommitChangelistDialog2" timestamp="1589630076000">
+    <state x="2584" y="113" key="CommitChangelistDialog2" timestamp="1589630479068">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2584" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630076000" />
-    <state x="2522" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589630082868">
+    <state x="2584" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630479068" />
+    <state x="2522" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589630487736">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2522" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630082868" />
+    <state x="2522" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630487736" />
     <state x="2739" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589629436959">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
