@@ -48,22 +48,30 @@
       <option name="project" value="LOCAL" />
       <updated>1589629554423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Solutions Files.">
+      <created>1589630076646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589630076646</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Git Repository." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Git Repository." />
+    <MESSAGE value="Added Solutions Files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Solutions Files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2584" y="113" key="CommitChangelistDialog2" timestamp="1589630042909">
+    <state x="2584" y="113" key="CommitChangelistDialog2" timestamp="1589630076000">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2584" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630042909" />
-    <state x="2522" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589629561767">
+    <state x="2584" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630076000" />
+    <state x="2522" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589630082868">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2522" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589629561767" />
+    <state x="2522" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630082868" />
     <state x="2739" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589629436959">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

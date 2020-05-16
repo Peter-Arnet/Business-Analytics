@@ -1,0 +1,28 @@
+{
+    "name": "Tutorial 1",
+    "endpoint": "icbs/bs1819/fa18/tut01",
+    "src": [
+		"tests/q1.py",
+        "tests/q2.py",
+        "tests/q3.py",
+		"tests/q4.py",
+        "tests/q5.py",
+        "tests/q6.py",
+		"tests/q7.py"
+	],
+    "tests": {
+        "tests/q1.py": "ok_test",
+        "tests/q2.py": "ok_test",
+        "tests/q3.py": "ok_test",
+        "tests/q4.py": "ok_test",
+        "tests/q5.py": "ok_test",
+        "tests/q6.py": "ok_test",
+		"tests/q7.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

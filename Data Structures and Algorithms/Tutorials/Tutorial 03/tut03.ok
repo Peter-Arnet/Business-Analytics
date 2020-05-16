@@ -1,0 +1,27 @@
+{
+    "name": "Tutorial 3",
+    "endpoint": "icbs/bs1819/fa18/tut03",
+    "src": [
+        "tut03.py",
+        "tut03_extra.py"
+    ],
+    "tests": {
+      "tests/recap.py": "ok_test",
+      "tests/dicts.py": "ok_test",
+      "tests/sets.py": "ok_test",
+      "tests/comprehensions.py": "ok_test",
+      "tut03.py:print_dict_values": "doctest",
+	  "tut03.py:count_characters": "doctest",
+	  "tut03.py:count_words": "doctest",
+	  "tut03_extra.py:divide": "doctest",
+      "tut03_extra.py:caesar_cipher_encrypt": "doctest",
+      "tut03_extra.py:caesar_cipher_decrypt": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
+

@@ -1,0 +1,26 @@
+{
+    "name": "Tutorial 2",
+    "endpoint": "icbs/bs1819/fa18/tut02",
+    "src": [
+        "tut02.py",
+		"tut02_extra.py"
+    ],
+    "tests": {
+      "tests/q1.py": "ok_test",
+      "tests/q2.py": "ok_test",
+      "tests/q3.py": "ok_test",
+	  "tests/q4.py": "ok_test",
+      "tut02.py:count_capital_letters": "doctest",
+	  "tut02.py:str_to_int": "doctest",
+	  "tut02.py:value_at_least": "doctest",
+      "tut02_extra.py:to_chars": "doctest",
+	  "tut02_extra.py:is_palindrome": "doctest",
+	  "tut02_extra.py:search_word": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
