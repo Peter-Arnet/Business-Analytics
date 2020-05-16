@@ -1,0 +1,19 @@
+{
+    "name": "Homework 2",
+    "endpoint": "icbs/bs1819/fa18/hw02",
+    "src": [
+        "hw02.py"
+    ],
+    "tests": {
+      "hw02.py:moving_average": "doctest",
+      "hw02.py:cross_overs": "doctest",
+      "hw02.py:make_trades": "doctest",
+	  "hw02.py:palindrome": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
