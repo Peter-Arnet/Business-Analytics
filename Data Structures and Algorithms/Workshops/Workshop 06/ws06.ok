@@ -1,0 +1,21 @@
+{
+    "name": "Workshop 6",
+    "endpoint": "icbs/bs1819/fa18/ws06",
+    "src": [
+        "ws06.py",
+		"ws06_extra.py"
+    ],
+    "tests": {
+      "tests/q_recap.py": "ok_test",
+      "ws06.py:create_lecture_graph": "doctest",
+      "ws06.py:bfs": "doctest",
+	  "ws06.py:bfs_track_path": "doctest",
+      "ws06_extra.py:dfs": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

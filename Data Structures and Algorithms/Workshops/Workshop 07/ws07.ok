@@ -1,0 +1,20 @@
+{
+    "name": "Workshop 7",
+    "endpoint": "icbs/bs1819/fa18/ws07",
+    "src": [
+        "ws07.py",
+		"ws07_extra.py"
+    ],
+    "tests": {
+      "tests/q_recap.py": "ok_test",
+      "ws07.py:lecture_graph": "doctest",
+      "ws07.py:dijkstra": "doctest",
+      "ws07_extra.py:dijkstra_heap": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

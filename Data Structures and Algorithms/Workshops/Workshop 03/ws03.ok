@@ -1,0 +1,23 @@
+{
+    "name": "Workshop 3",
+    "endpoint": "icbs/bs1819/fa18/ws03",
+    "src": [
+        "ws03.py",
+		"ws03_extra.py"
+    ],
+    "tests": {
+      "tests/q1_recap.py": "ok_test",
+	  "ws03.py:find_min_index": "doctest",
+	  "ws03.py:selection_sort": "doctest",
+      "ws03.py:sort_by_key": "doctest",
+	  "ws03_extra.py:merge": "doctest",
+      "ws03_extra.py:merge_sort": "doctest",
+      "ws03_extra.py:recursive_fibonacci": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Workshop 2",
+    "endpoint": "icbs/bs1819/fa18/ws02",
+    "src": [
+        "ws02.py",
+		"ws02_extra.py"
+    ],
+    "tests": {
+	  "tests/q1_recap.py": "ok_test",
+      "tests/q_big_o.py": "ok_test",
+      "tests/q_big_o_extra.py": "ok_test",
+	  "ws02.py:linear_search_index": "doctest",
+      "ws02.py:binary_search_count": "doctest",
+      "ws02_extra.py:check_sorted": "doctest",
+      "ws02_extra.py:longest_sorted": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Workshop 4",
+    "endpoint": "icbs/bs1819/fa18/ws04",
+    "src": [
+        "ws04.py",
+		"ws04_extra.py"
+    ],
+    "tests": {
+      "tests/q1_recap.py": "ok_test",
+      "tests/monsters.py": "ok_test",
+      "tests/more_monsters.py": "ok_test",
+	  "ws04.py:Monster.heal": "doctest",
+	  "ws04.py:Monster.use_attack": "doctest",
+      "ws04.py:test_attack": "doctest",
+      "ws04_extra.py:test_listqueue": "doctest",
+      "ws04_extra.py:test_queue": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

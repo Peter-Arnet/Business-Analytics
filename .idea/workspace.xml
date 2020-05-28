@@ -3,6 +3,40 @@
   <component name="ChangeListManager">
     <list default="true" id="3487b707-2078-4c80-8850-3e849e9505d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 01/homework_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 01/hw01.ok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 01/hw01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 01/ok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 01/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 01/windchill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/hw02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/hw02.ok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/hw02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/hw02_extra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/nasdaq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/ok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Homework/Homework 02/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Tutorial 02 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Tutorial 02 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Tutorial 03 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Tutorial 03 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Tutorial 04 - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Tutorial 05 - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 01 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 01 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 02 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 02 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 03 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 03 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 04 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 04 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 05 - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 06 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 06 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 07 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 07 - Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 08 - Extra Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures and Algorithms/Solutions/Workshop 08 - Solution.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +91,50 @@
       <option name="project" value="LOCAL" />
       <updated>1589630076646</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Tutorials Files.">
+      <created>1589630479910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589630479910</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Homework Files.">
+      <created>1589630651907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589630651907</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Homework Files.">
+      <created>1589630659558</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589630659558</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Git Repository." />
     <MESSAGE value="Added Solutions Files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Solutions Files." />
+    <MESSAGE value="Added Tutorials Files." />
+    <MESSAGE value="Added Homework Files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Homework Files." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2584" y="113" key="CommitChangelistDialog2" timestamp="1589630651302">
+    <state x="2584" y="113" key="CommitChangelistDialog2" timestamp="1589630658871">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2584" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630651302" />
-    <state x="2522" y="250" key="Vcs.Push.Dialog.v2" timestamp="1589630487736">
+    <state x="2584" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630658871" />
+    <state x="2522" y="250" key="Vcs.Push.Dialog.v2" timestamp="1590675942011">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2522" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589630487736" />
+    <state x="2522" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590675942011" />
+    <state x="2626" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1590675918158">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2626" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590675918158" />
     <state x="2739" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589629436959">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

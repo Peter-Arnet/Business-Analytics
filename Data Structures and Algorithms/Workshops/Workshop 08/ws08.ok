@@ -1,0 +1,19 @@
+{
+    "name": "Workshop 8",
+    "endpoint": "icbs/bs1819/fa18/ws08",
+    "src": [
+        "ws08.py",
+		"ws08_extra.py"
+    ],
+    "tests": {
+	  "tests/q_recap.py": "ok_test",
+      "ws08.py:test_greedy": "doctest",
+	  "ws08_extra.py:test_greedy_fractional": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

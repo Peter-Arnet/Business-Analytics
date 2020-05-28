@@ -1,0 +1,24 @@
+{
+    "name": "Workshop 1",
+    "endpoint": "icbs/bs1819/fa18/ws01",
+    "src": [
+        "ws01.py",
+		"ws01_extra.py"
+    ],
+    "tests": {
+      "tests/q1.py": "ok_test",
+      "tests/q2.py": "ok_test",
+      "tests/q3.py": "ok_test",
+	  "ws01.py:sum_of_squares": "doctest",
+      "ws01.py:print_grade": "doctest",
+      "ws01_extra.py:square_root_heron": "doctest",
+	  "ws01_extra.py:square_root_bisection": "doctest",
+      "ws01_extra.py:middle_of_three": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
